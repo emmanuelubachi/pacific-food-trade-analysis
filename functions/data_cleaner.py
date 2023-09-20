@@ -182,3 +182,78 @@ class DataCleaner:
             lambda x: x.str.strip() if x.dtype == "object" else x
         )
         return df
+
+    def rename_columns_remove_colon(df: pd.DataFrame) -> pd.DataFrame:
+        """
+        Rename columns in a Pandas DataFrame by removing ":" from the column names.
+
+        Args:
+            df (pd.DataFrame): The DataFrame to rename columns for.
+
+        Returns:
+            pd.DataFrame: The DataFrame with columns renamed.
+
+        Example:
+            # Create a sample DataFrame
+            data = {'FREQ: Frequency': [1, 2, 3], 'VAL: Value': [10, 20, 30]}
+            df = pd.DataFrame(data)
+
+            # Call the function to rename columns
+            df = rename_columns_remove_colon(df)
+
+            # Print the DataFrame with renamed columns
+            print(df)
+        """
+        # Create a dictionary to store the mapping of old column names to new column names
+        column_mapping = {}
+
+        # Iterate through the existing column names
+        for old_col in df.columns:
+            # Split the column name at ":"
+            parts = old_col.split(":")
+
+            # If there is a ":" in the column name and there is text after it
+            if len(parts) == 2:
+                new_col = parts[
+                    1
+                ].strip()  # Use the text after ":" as the new column name
+                column_mapping[old_col] = new_col
+
+        # Rename the columns in the DataFrame using the mapping
+        df.rename(columns=column_mapping, inplace=True)
+
+        return df
+
+    def process_columns_with_colon(
+        self, df: pd.DataFrame, columns_to_process: list
+    ) -> pd.DataFrame:
+        """
+        Process specified columns in a DataFrame by replacing values with text after ":".
+
+        Args:
+            df (pd.DataFrame): The DataFrame to process.
+            columns_to_process (list): A list of column names to process.
+
+        Returns:
+            pd.DataFrame: The DataFrame with values in specified columns processed.
+
+        Example:
+            # Create a sample DataFrame
+            data = {'Gender': ['F: Female', 'M: Male', '_T: Total'],
+                    'Category': ['A: Category1', 'B: Category2', 'C: Category3']}
+            df = pd.DataFrame(data)
+
+            # Columns to process
+            columns_to_process = ['Gender', 'Category']
+
+            # Call the function to process columns
+            df = process_columns_with_colon(df, columns_to_process)
+
+            # Print the DataFrame with processed columns
+            print(df)
+        """
+        for column in columns_to_process:
+            # Apply a function to each cell in the specified column
+            df[column] = df[column].apply(lambda x: x.split(": ")[1] if ":" in x else x)
+
+        return df
