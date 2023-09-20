@@ -224,8 +224,9 @@ class DataCleaner:
 
         return df
 
+    @staticmethod
     def process_columns_with_colon(
-        self, df: pd.DataFrame, columns_to_process: list
+        df: pd.DataFrame, columns_to_process
     ) -> pd.DataFrame:
         """
         Process specified columns in a DataFrame by replacing values with text after ":".
@@ -254,6 +255,10 @@ class DataCleaner:
         """
         for column in columns_to_process:
             # Apply a function to each cell in the specified column
-            df[column] = df[column].apply(lambda x: x.split(": ")[1] if ":" in x else x)
-
+            # df[column] = df[column].apply(lambda x: x.split(": ")[1] if ":" in x else x)
+            df[column] = df[column].apply(
+                lambda x: x.split(": ")[1]
+                if (":" in x) and len(x.split(": ")) > 1
+                else x
+            )
         return df
