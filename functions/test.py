@@ -1,53 +1,234 @@
 import pandas as pd
 
-
-def process_columns_with_colon(df, columns_to_process):
-    """
-    Process specified columns in a DataFrame by replacing values with text after ":".
-
-    Args:
-        df (pd.DataFrame): The DataFrame to process.
-        columns_to_process (list): A list of column names to process.
-
-    Returns:
-        pd.DataFrame: The DataFrame with values in specified columns processed.
-
-    Example:
-        # Create a sample DataFrame
-        data = {'Gender': ['F: Female', 'M: Male', '_T: Total'],
-                'Category': ['A: Category1', 'B: Category2', 'C: Category3']}
-        df = pd.DataFrame(data)
-
-        # Columns to process
-        columns_to_process = ['Gender', 'Category']
-
-        # Call the function to process columns
-        df = process_columns_with_colon(df, columns_to_process)
-
-        # Print the DataFrame with processed columns
-        print(df)
-    """
-    for column in columns_to_process:
-        # Apply a function to each cell in the specified column
-        df[column] = df[column].apply(lambda x: x.split(": ")[1] if ":" in x else x)
-
-    return df
-
-
-# Example usage:
-# Create a sample DataFrame
+# Sample data
 data = {
-    "Gender": ["F: Female", "M: Male", "_T: Total"],
-    "Category": ["A: Category1", "B: Category2", "C: Category3"],
-    "Category2": ["Category1_New", "Category2_New", "Category3_New"],
+    "Importer": [
+        "Vanuatu",
+        "Vanuatu",
+        "Vanuatu",
+        "Vanuatu",
+        "Federated State of Micronesia",
+        "Federated State of Micronesia",
+        "Federated State of Micronesia",
+        "Federated State of Micronesia",
+        "Niue",
+        "New Zealand",
+        "New Zealand",
+        "New Zealand",
+        "New Zealand",
+        "French Polynesia",
+        "French Polynesia",
+        "French Polynesia",
+        "French Polynesia",
+        "Marshall Islands",
+        "Marshall Islands",
+        "Nauru",
+        "Tonga",
+        "Tonga",
+        "Tonga",
+        "Tonga",
+        "Palau",
+        "Palau",
+        "Cook Islands",
+        "Cook Islands",
+        "Cook Islands",
+        "Cook Islands",
+        "Fiji",
+        "Fiji",
+        "Papua New Guinea",
+        "Papua New Guinea",
+        "Papua New Guinea",
+        "Papua New Guinea",
+        "New Caledonia",
+        "New Caledonia",
+        "Fiji",
+        "Fiji",
+    ],
+    "Exporter": [
+        "Europe",
+        "Europe",
+        "Europe",
+        "Asia",
+        "Asia",
+        "Asia",
+        "Asia",
+        "Americas",
+        "All",
+        "All",
+        "All",
+        "All",
+        "All",
+        "All",
+        "All",
+        "All",
+        "Latin America and the Caribbean",
+        "Latin America and the Caribbean",
+        "Northern America",
+        "South-eastern Asia",
+        "South-eastern Asia",
+        "South-eastern Asia",
+        "South-eastern Asia",
+        "South-eastern Asia",
+        "South-eastern Asia",
+        "Eastern Europe",
+        "Eastern Europe",
+        "Eastern Europe",
+        "Eastern Europe",
+        "Western Europe",
+        "Western Europe",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Australia",
+        "Canada",
+        "Canada",
+        "China, Hong Kong Special Administrative Region",
+        "China, Hong Kong Special Administrative Region",
+        "China, Hong Kong Special Administrative Region",
+    ],
+    "Commodity": [
+        "Meat and edible meat offal",
+        "Meat and edible meat offal",
+        "Meat and edible meat offal",
+        "Meat and edible meat offal",
+        "Animal,vegetable fats and oils, cleavage produ...",
+        "Animal,vegetable fats and oils, cleavage produ...",
+        "Animal,vegetable fats and oils, cleavage produ...",
+        "Animal,vegetable fats and oils, cleavage produ...",
+        "Cereals",
+        "Oil seed, oleagic fruits, grain, seed, fruit, ...",
+        "Oil seed, oleagic fruits, grain, seed, fruit, ...",
+        "Oil seed, oleagic fruits, grain, seed, fruit, ...",
+        "Oil seed, oleagic fruits, grain, seed, fruit, ...",
+        "Edible vegetables and certain roots and tubers",
+        "Edible vegetables and certain roots and tubers",
+        "Edible vegetables and certain roots and tubers",
+        "Edible vegetables and certain roots and tubers",
+        "Edible vegetables and certain roots and tubers",
+        "Edible vegetables and certain roots and tubers",
+        "Cereal, flour, starch, milk preparations and p...",
+        "Sugars and sugar confectionery",
+        "Sugars and sugar confectionery",
+        "Sugars and sugar confectionery",
+        "Sugars and sugar confectionery",
+        "Meat and edible meat offal",
+        "Meat and edible meat offal",
+        "Tobacco and manufactured tobacco substitutes",
+        "Tobacco and manufactured tobacco substitutes",
+        "Tobacco and manufactured tobacco substitutes",
+        "Tobacco and manufactured tobacco substitutes",
+        "Tobacco and manufactured tobacco substitutes",
+        "Cereal, flour, starch, milk preparations and p...",
+        "Cereal, flour, starch, milk preparations and p...",
+        "Cereal, flour, starch, milk preparations and p...",
+        "Edible vegetables and certain roots and tubers",
+        "Edible vegetables and certain roots and tubers",
+        "Tobacco and manufactured tobacco substitutes",
+        "Tobacco and manufactured tobacco substitutes",
+        "Tobacco and manufactured tobacco substitutes",
+        "Tobacco and manufactured tobacco substitutes",
+    ],
+    "Year": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2015,
+        2016,
+        2017,
+        2018,
+        2018,
+        2015,
+        2016,
+        2017,
+        2018,
+        2015,
+        2016,
+        2017,
+        2018,
+        2015,
+        2016,
+        2015,
+        2016,
+        2015,
+        2015,
+        2016,
+        2017,
+        2018,
+        2016,
+        2018,
+        2015,
+        2016,
+        2017,
+        2018,
+        2017,
+        2018,
+        2015,
+        2016,
+        2017,
+        2018,
+        2015,
+        2016,
+    ],
+    "OBS_VALUE": [
+        6,
+        79,
+        49,
+        66,
+        204,
+        214,
+        159,
+        281,
+        19,
+        350,
+        207,
+        34,
+        211,
+        8593,
+        8258,
+        7825,
+        9362,
+        3,
+        97,
+        1,
+        1629,
+        1019,
+        1595,
+        1258,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        6,
+        0,
+        4,
+    ],
 }
+
 df = pd.DataFrame(data)
 
-# Columns to process
-columns_to_process = ["Gender", "Category", "Category2"]
 
-# Call the function to process columns
-df = process_columns_with_colon(df, columns_to_process)
+def filter_latest_5_years(dataframe):
+    latest_years = dataframe["Year"].max() - 4
+    filtered_data = dataframe[dataframe["Year"] >= latest_years]
+    return filtered_data
 
-# Print the DataFrame with processed columns
-print(df)
+
+# Group by Importer and apply the filter_latest_5_years function
+grouped_df = df.groupby("Importer", group_keys=False).apply(filter_latest_5_years)
+
+# Reset the index
+grouped_df.reset_index(drop=True, inplace=True)
+
+# Display the resulting DataFrame
+grouped_df
+print(grouped_df)
