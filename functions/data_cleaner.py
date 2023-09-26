@@ -2,7 +2,9 @@ import pandas as pd
 
 
 class DataCleaner:
-    def capitalize_first_character(self, df: pd.DataFrame, column: str) -> pd.DataFrame:
+    def capitalize_first_character(
+        self, df: pd.DataFrame, column: str
+    ) -> [pd.DataFrame, list]:
         """
         Capitalize the first character of the values in a column of a DataFrame.
 
@@ -26,7 +28,7 @@ class DataCleaner:
             print(df)
         """
         df[column] = df[column].str.capitalize()
-        return df
+        return df, df[column]
 
     def convert_to_lowercase(self, df: pd.DataFrame, columns: list) -> pd.DataFrame:
         """
