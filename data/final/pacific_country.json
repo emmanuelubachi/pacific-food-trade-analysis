@@ -1,0 +1,20 @@
+[
+  { "Id": 1, "country": "Australia", "iso3": "AUS" },
+  { "Id": 2, "country": "Cook Islands", "iso3": "COK" },
+  { "Id": 3, "country": "Federated State of Micronesia", "iso3": "FSM" },
+  { "Id": 4, "country": "Fiji", "iso3": "FJI" },
+  { "Id": 5, "country": "French Polynesia", "iso3": "PYF" },
+  { "Id": 6, "country": "Kiribati", "iso3": "KIR" },
+  { "Id": 7, "country": "Marshall Islands", "iso3": "MHL" },
+  { "Id": 8, "country": "Nauru", "iso3": "NRU" },
+  { "Id": 9, "country": "New Caledonia", "iso3": "NCL" },
+  { "Id": 10, "country": "New Zealand", "iso3": "NZL" },
+  { "Id": 11, "country": "Niue", "iso3": "NIU" },
+  { "Id": 12, "country": "Palau", "iso3": "PLW" },
+  { "Id": 13, "country": "Papua New Guinea", "iso3": "PNG" },
+  { "Id": 14, "country": "Samoa", "iso3": "WSM" },
+  { "Id": 15, "country": "Solomon Islands", "iso3": "SLB" },
+  { "Id": 16, "country": "Tonga", "iso3": "TON" },
+  { "Id": 17, "country": "Tuvalu", "iso3": "TUV" },
+  { "Id": 18, "country": "Vanuatu", "iso3": "VUT" }
+]
