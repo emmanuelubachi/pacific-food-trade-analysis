@@ -87,18 +87,26 @@ def filter_latest_5_years(dataframe):
 # Group by Importer and apply the filter_latest_5_years function
 df5 = df4.groupby("Importer", group_keys=False).apply(filter_latest_5_years)
 
-df5.describe()
-
-df5_json = df5.to_json("../../data/interim/food_imports_test.json", orient="records")
-
-
-# Group by Importer, ImporterISO and "Year" and aggregate the data as a list of dictionaries
-df6 = (
-    df5.groupby(["Importer", "ImporterISO", "Year"])
-    .apply(lambda x: x[["ExporterISO", "Quantity"]].to_dict("records"))
-    .reset_index(name="Data")
-)
+df6 = df5.rename(columns={"Exporter": "name", "Quantity":"value", "ExporterISO":"ISO_A3"})
 
 df6.shape
 
-df6_json = df6.to_json("../../data/interim/food_trade_imports.json", orient="records")
+df6.describe()
+
+# df6_json = df6.to_json("../../data/interim/food_imports.json", orient="records")
+
+
+# Group by Importer, ImporterISO and "Year" and aggregate the data as a list of dictionaries
+df7 = (
+    df6.groupby(["Importer", "ImporterISO", "Year"])
+    .apply(lambda x: x[["name", "ISO_A3", "value"]].to_dict("records"))
+    .reset_index(name="Data")
+)
+
+df7.shape
+df7
+
+# =========================================================================================
+
+
+df7_json = df7.to_json("../../data/interim/food_trade_imports2.json", orient="records")
