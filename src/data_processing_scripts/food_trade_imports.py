@@ -69,13 +69,15 @@ df2.sort_values(
 
 df3 = (
     df2.groupby(
-        ["Importer", "ImporterISO", "Year", "Commodity", "Exporter", "ExporterISO"]
+        ["Importer", "ImporterISO", "Year", "Exporter", "ExporterISO"]
     )["Quantity"]
     .sum()
     .reset_index()
 )
 
 df4 = df3.copy()
+
+df4
 
 
 def filter_latest_5_years(dataframe):
@@ -91,7 +93,7 @@ df6 = df5.rename(columns={"Exporter": "name", "Quantity":"value", "ExporterISO":
 
 df6.shape
 
-df6.describe()
+df6
 
 # df6_json = df6.to_json("../../data/interim/food_imports.json", orient="records")
 
@@ -109,4 +111,4 @@ df7
 # =========================================================================================
 
 
-df7_json = df7.to_json("../../data/interim/food_trade_imports2.json", orient="records")
+df7_json = df7.to_json("../../data/interim/food_imports.json", orient="records")
