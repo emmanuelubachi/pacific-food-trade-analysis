@@ -8,7 +8,7 @@ from functions import DataCleaner as DC
 pd.set_option("display.max_rows", 200)
 
 # Define the path to the CSV file
-file_path = "../../data/staging/food_trade.csv"
+file_path = "../../data/staging/food_trade_imports.csv"
 
 try:
     # Read the CSV file into a Pandas DataFrame
@@ -38,35 +38,8 @@ for i in df.columns:
     print(" ")
     print(" ")
 
-df1 = df.filter(["Importer", "Commodity", "Time", "OBS_VALUE"])
+df1 = df.filter(["Importer", "ImporterISO", "Year", "Quantity"])
 df1
-
-pacific_countries = [
-    "Vanuatu",
-    "Federated State of Micronesia",
-    "Niue",
-    "New Zealand",
-    "French Polynesia",
-    "Kiribati",
-    "Fiji",
-    "Marshall Islands",
-    "Nauru",
-    "Tonga",
-    "Palau",
-    "Papua New Guinea",
-    "Cook Islands",
-    "New Caledonia",
-    "Wallis and Futuna Islands",
-    "Tokelau",
-    "Australia",
-    "American Samoa",
-    "Solomon Islands",
-    "Tuvalu",
-    "Samoa",
-    "Guam",
-    "Pitcairn",
-    "Northern Mariana Islands",
-]
 
 # =====================================================================================
 
@@ -74,37 +47,19 @@ pacific_countries = [
 
 # =====================================================================================
 
-df2 = df1[df["Importer"].isin(pacific_countries)]
-df2.head()
-# df3 = df2[df["Time"].isin([2018, 2017, 2016, 2015])].reset_index(drop=True)
+# Group by both "Importer" and "Year" columns and calculate the sum of "Quantity" for each combination
+df2 = df1.groupby(["Importer", "ImporterISO", "Year"])["Quantity"].sum().reset_index()
 
-df2.head(200)
+df2
+
 df2.shape
 
-sorted(df2["Commodity"].unique())
+df2.head(200)
 
-# Group by both "Exporter" and "Commodity" columns and calculate the sum of "OBS_VALUE" for each combination
-grouped_df = (
-    df2.groupby(["Importer", "Commodity", "Time"])["OBS_VALUE"].sum().reset_index()
+df3 = (
+    df2.groupby(["Importer", "ImporterISO"])
+    .apply(lambda x: x[["Year", "Quantity"]].to_dict("records"))
+    .reset_index(name="Data")
 )
 
-grouped_df.shape
-
-grouped_df.head(200)
-
-grouped_df1 = grouped_df.rename(
-    columns={
-        "Importer": "Country",
-        "Commodity": "Food",
-        "OBS_VALUE": "Import",
-        "Time": "Year",
-    }
-)
-
-df_ft = grouped_df1.copy()
-
-df_ft.shape
-
-df_ft.isnull().sum()
-
-df_ft.to_csv("../../data/staging/import_trade_trend.csv", index=False)
+df3_json = df3.to_json("../../data/final/import_trend.json", orient="records")
