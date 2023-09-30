@@ -1,0 +1,4288 @@
+[
+  {
+    "Importer": "Australia",
+    "ImporterISO": "AUS",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 2991
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7257 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 9742
+      },
+      { "name": "Cereals", "value": 12 },
+      { "name": "Cocoa and cocoa preparations", "value": 142 },
+      { "name": "Coffee, tea, mate and spices", "value": 16141 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 96
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 5174
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 9171
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 404
+      },
+      { "name": "Meat and edible meat offal", "value": 112 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 267 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 94
+      },
+      { "name": "Miscellaneous edible preparations", "value": 283 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 88
+      },
+      { "name": "Sugars and sugar confectionery", "value": 6 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 64 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1251 }
+    ]
+  },
+  {
+    "Importer": "Australia",
+    "ImporterISO": "AUS",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 2614
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4643 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 6578
+      },
+      { "name": "Cocoa and cocoa preparations", "value": 114 },
+      { "name": "Coffee, tea, mate and spices", "value": 17853 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 32
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 3241
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 8308
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 815
+      },
+      { "name": "Meat and edible meat offal", "value": 18 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 224 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 138
+      },
+      { "name": "Miscellaneous edible preparations", "value": 153 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 7294
+      },
+      { "name": "Sugars and sugar confectionery", "value": 2 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 47 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1619 }
+    ]
+  },
+  {
+    "Importer": "Australia",
+    "ImporterISO": "AUS",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 2734
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4011 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 3722
+      },
+      { "name": "Cereals", "value": 50 },
+      { "name": "Cocoa and cocoa preparations", "value": 226 },
+      { "name": "Coffee, tea, mate and spices", "value": 17882 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 32
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1702
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 5416
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 653
+      },
+      { "name": "Meat and edible meat offal", "value": 18 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 71 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 234
+      },
+      { "name": "Miscellaneous edible preparations", "value": 253 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 2152
+      },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 50 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 909 }
+    ]
+  },
+  {
+    "Importer": "Australia",
+    "ImporterISO": "AUS",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1988
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 6141 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 5654
+      },
+      { "name": "Cocoa and cocoa preparations", "value": 155 },
+      { "name": "Coffee, tea, mate and spices", "value": 18682 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 46
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 2699
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 3681
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 235
+      },
+      { "name": "Meat and edible meat offal", "value": 47 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 223 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 266
+      },
+      { "name": "Miscellaneous edible preparations", "value": 284 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 2600
+      },
+      { "name": "Sugars and sugar confectionery", "value": 4 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 18 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 7346 }
+    ]
+  },
+  {
+    "Importer": "Australia",
+    "ImporterISO": "AUS",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1570
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7487 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 3698
+      },
+      { "name": "Cereals", "value": 10 },
+      { "name": "Cocoa and cocoa preparations", "value": 224 },
+      { "name": "Coffee, tea, mate and spices", "value": 17025 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 64
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1740
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2216
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 742
+      },
+      { "name": "Meat and edible meat offal", "value": 8 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 266 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 152
+      },
+      { "name": "Miscellaneous edible preparations", "value": 257 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 1221
+      },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 213 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 7906 }
+    ]
+  },
+  {
+    "Importer": "Cook Islands",
+    "ImporterISO": "COK",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 391
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5107 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 834
+      },
+      { "name": "Cereals", "value": 230 },
+      { "name": "Cocoa and cocoa preparations", "value": 86 },
+      { "name": "Coffee, tea, mate and spices", "value": 58 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 1836
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 284
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1518
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 100
+      },
+      { "name": "Meat and edible meat offal", "value": 2368 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 753 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1847
+      },
+      { "name": "Miscellaneous edible preparations", "value": 859 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 2
+      },
+      { "name": "Sugars and sugar confectionery", "value": 640 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 12 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1525 }
+    ]
+  },
+  {
+    "Importer": "Cook Islands",
+    "ImporterISO": "COK",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 317
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5008 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 928
+      },
+      { "name": "Cereals", "value": 96 },
+      { "name": "Cocoa and cocoa preparations", "value": 120 },
+      { "name": "Coffee, tea, mate and spices", "value": 70 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2114
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 314
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1552
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 297
+      },
+      { "name": "Meat and edible meat offal", "value": 2324 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 689 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1736
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1810 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 50
+      },
+      { "name": "Sugars and sugar confectionery", "value": 708 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 6 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1346 }
+    ]
+  },
+  {
+    "Importer": "Cook Islands",
+    "ImporterISO": "COK",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 419
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4689 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 911
+      },
+      { "name": "Cereals", "value": 128 },
+      { "name": "Cocoa and cocoa preparations", "value": 128 },
+      { "name": "Coffee, tea, mate and spices", "value": 72 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2546
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 362
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1762
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 126
+      },
+      { "name": "Meat and edible meat offal", "value": 2591 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 627 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1847
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1119 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 60
+      },
+      { "name": "Sugars and sugar confectionery", "value": 639 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 23 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1662 }
+    ]
+  },
+  {
+    "Importer": "Cook Islands",
+    "ImporterISO": "COK",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 421
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7730 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 919
+      },
+      { "name": "Cereals", "value": 98 },
+      { "name": "Cocoa and cocoa preparations", "value": 133 },
+      { "name": "Coffee, tea, mate and spices", "value": 62 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2511
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 431
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1990
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 106
+      },
+      { "name": "Meat and edible meat offal", "value": 2866 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 803 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1910
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1121 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 4
+      },
+      { "name": "Sugars and sugar confectionery", "value": 650 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 18 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1961 }
+    ]
+  },
+  {
+    "Importer": "Cook Islands",
+    "ImporterISO": "COK",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 574
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5232 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 886
+      },
+      { "name": "Cereals", "value": 140 },
+      { "name": "Cocoa and cocoa preparations", "value": 169 },
+      { "name": "Coffee, tea, mate and spices", "value": 76 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2785
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 389
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1823
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 132
+      },
+      { "name": "Meat and edible meat offal", "value": 2839 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 804 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1839
+      },
+      { "name": "Miscellaneous edible preparations", "value": 905 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 2
+      },
+      { "name": "Sugars and sugar confectionery", "value": 705 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 78 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1925 }
+    ]
+  },
+  {
+    "Importer": "Federated State of Micronesia",
+    "ImporterISO": "FSM",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1705
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 22383 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 9995
+      },
+      { "name": "Cereals", "value": 26142 },
+      { "name": "Cocoa and cocoa preparations", "value": 267 },
+      { "name": "Coffee, tea, mate and spices", "value": 572 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 3478
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1034
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2251
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 1155
+      },
+      { "name": "Meat and edible meat offal", "value": 13497 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6502 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 17267
+      },
+      { "name": "Miscellaneous edible preparations", "value": 9323 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 177
+      },
+      { "name": "Sugars and sugar confectionery", "value": 13439 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 362 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2289 }
+    ]
+  },
+  {
+    "Importer": "Federated State of Micronesia",
+    "ImporterISO": "FSM",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 2083
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 20097 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 8886
+      },
+      { "name": "Cereals", "value": 24724 },
+      { "name": "Cocoa and cocoa preparations", "value": 349 },
+      { "name": "Coffee, tea, mate and spices", "value": 493 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 3719
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 887
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1916
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2170
+      },
+      { "name": "Meat and edible meat offal", "value": 12931 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6480 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 9814
+      },
+      { "name": "Miscellaneous edible preparations", "value": 10038 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 105
+      },
+      { "name": "Sugars and sugar confectionery", "value": 7129 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 260 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 3196 }
+    ]
+  },
+  {
+    "Importer": "Federated State of Micronesia",
+    "ImporterISO": "FSM",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 2064
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 24149 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 10893
+      },
+      { "name": "Cereals", "value": 19720 },
+      { "name": "Cocoa and cocoa preparations", "value": 313 },
+      { "name": "Coffee, tea, mate and spices", "value": 858 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 3515
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1022
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2106
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 3258
+      },
+      { "name": "Meat and edible meat offal", "value": 14573 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6379 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 13839
+      },
+      { "name": "Miscellaneous edible preparations", "value": 10565 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 123
+      },
+      { "name": "Sugars and sugar confectionery", "value": 10634 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 319 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 3121 }
+    ]
+  },
+  {
+    "Importer": "Federated State of Micronesia",
+    "ImporterISO": "FSM",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1751
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 22293 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 10761
+      },
+      { "name": "Cereals", "value": 31655 },
+      { "name": "Cocoa and cocoa preparations", "value": 190 },
+      { "name": "Coffee, tea, mate and spices", "value": 582 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 4892
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1625
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2265
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 4419
+      },
+      { "name": "Meat and edible meat offal", "value": 15802 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6810 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 17453
+      },
+      { "name": "Miscellaneous edible preparations", "value": 11221 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 38
+      },
+      { "name": "Sugars and sugar confectionery", "value": 14562 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 141 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 3230 }
+    ]
+  },
+  {
+    "Importer": "Federated State of Micronesia",
+    "ImporterISO": "FSM",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1689
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 23393 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 10350
+      },
+      { "name": "Cereals", "value": 24022 },
+      { "name": "Cocoa and cocoa preparations", "value": 190 },
+      { "name": "Coffee, tea, mate and spices", "value": 487 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 5676
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1929
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2510
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2487
+      },
+      { "name": "Meat and edible meat offal", "value": 15903 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6452 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 8051
+      },
+      { "name": "Miscellaneous edible preparations", "value": 9952 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 34
+      },
+      { "name": "Sugars and sugar confectionery", "value": 10905 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 294 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2584 }
+    ]
+  },
+  {
+    "Importer": "Fiji",
+    "ImporterISO": "FJI",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 33807
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 9463 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 6104
+      },
+      { "name": "Cereals", "value": 412339 },
+      { "name": "Cocoa and cocoa preparations", "value": 1094 },
+      { "name": "Coffee, tea, mate and spices", "value": 1998 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 22387
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 8635
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 90669
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 5857
+      },
+      { "name": "Meat and edible meat offal", "value": 18959 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 8558 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 10133
+      },
+      { "name": "Miscellaneous edible preparations", "value": 7431 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 10533
+      },
+      { "name": "Sugars and sugar confectionery", "value": 19706 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 132 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 11789 }
+    ]
+  },
+  {
+    "Importer": "Fiji",
+    "ImporterISO": "FJI",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 30312
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 9038 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 6648
+      },
+      { "name": "Cereals", "value": 380459 },
+      { "name": "Cocoa and cocoa preparations", "value": 1243 },
+      { "name": "Coffee, tea, mate and spices", "value": 2011 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 27832
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 7923
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 87606
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 5922
+      },
+      { "name": "Meat and edible meat offal", "value": 20611 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 9849 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 11032
+      },
+      { "name": "Miscellaneous edible preparations", "value": 7592 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 11409
+      },
+      { "name": "Sugars and sugar confectionery", "value": 16305 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 175 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 12943 }
+    ]
+  },
+  {
+    "Importer": "Fiji",
+    "ImporterISO": "FJI",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 29428
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 9651 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 7828
+      },
+      { "name": "Cereals", "value": 387279 },
+      { "name": "Cocoa and cocoa preparations", "value": 1318 },
+      { "name": "Coffee, tea, mate and spices", "value": 2400 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 37632
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 11446
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 94145
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 4537
+      },
+      { "name": "Meat and edible meat offal", "value": 27685 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 7667 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 13915
+      },
+      { "name": "Miscellaneous edible preparations", "value": 9008 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 17354
+      },
+      { "name": "Sugars and sugar confectionery", "value": 21499 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 148 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 15458 }
+    ]
+  },
+  {
+    "Importer": "Fiji",
+    "ImporterISO": "FJI",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 41587
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 11544 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 7255
+      },
+      { "name": "Cereals", "value": 421493 },
+      { "name": "Cocoa and cocoa preparations", "value": 1260 },
+      { "name": "Coffee, tea, mate and spices", "value": 2262 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 33235
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 10169
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 83317
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 6652
+      },
+      { "name": "Meat and edible meat offal", "value": 24008 },
+      {
+        "name": "Meat, fish and seafood food preparations nes",
+        "value": 10164
+      },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 11820
+      },
+      { "name": "Miscellaneous edible preparations", "value": 8484 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 22339
+      },
+      { "name": "Sugars and sugar confectionery", "value": 18954 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 604 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 15005 }
+    ]
+  },
+  {
+    "Importer": "Fiji",
+    "ImporterISO": "FJI",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 37119
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 9165 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 8775
+      },
+      { "name": "Cereals", "value": 536772 },
+      { "name": "Cocoa and cocoa preparations", "value": 1515 },
+      { "name": "Coffee, tea, mate and spices", "value": 2480 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 37504
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 12108
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 93097
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 5282
+      },
+      { "name": "Meat and edible meat offal", "value": 28678 },
+      {
+        "name": "Meat, fish and seafood food preparations nes",
+        "value": 12278
+      },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 14325
+      },
+      { "name": "Miscellaneous edible preparations", "value": 9607 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 22313
+      },
+      { "name": "Sugars and sugar confectionery", "value": 19229 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 298 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 17386 }
+    ]
+  },
+  {
+    "Importer": "French Polynesia",
+    "ImporterISO": "PYF",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5456
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 17258 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 12889
+      },
+      { "name": "Cereals", "value": 21330 },
+      { "name": "Cocoa and cocoa preparations", "value": 1249 },
+      { "name": "Coffee, tea, mate and spices", "value": 673 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 18557
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 5710
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 13915
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 3252
+      },
+      { "name": "Meat and edible meat offal", "value": 33612 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4236 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 25552
+      },
+      { "name": "Miscellaneous edible preparations", "value": 13190 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 997
+      },
+      { "name": "Sugars and sugar confectionery", "value": 14683 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 521 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 13549 }
+    ]
+  },
+  {
+    "Importer": "French Polynesia",
+    "ImporterISO": "PYF",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5328
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 16898 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 12302
+      },
+      { "name": "Cereals", "value": 19099 },
+      { "name": "Cocoa and cocoa preparations", "value": 1271 },
+      { "name": "Coffee, tea, mate and spices", "value": 521 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 17408
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 5978
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 13131
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2185
+      },
+      { "name": "Meat and edible meat offal", "value": 31844 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4637 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 21741
+      },
+      { "name": "Miscellaneous edible preparations", "value": 12781 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 1075
+      },
+      { "name": "Sugars and sugar confectionery", "value": 16375 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 506 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 14688 }
+    ]
+  },
+  {
+    "Importer": "French Polynesia",
+    "ImporterISO": "PYF",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5098
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 16571 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 11628
+      },
+      { "name": "Cereals", "value": 9529 },
+      { "name": "Cocoa and cocoa preparations", "value": 1199 },
+      { "name": "Coffee, tea, mate and spices", "value": 423 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 16597
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 5909
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 13000
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 1799
+      },
+      { "name": "Meat and edible meat offal", "value": 31277 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4101 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 17058
+      },
+      { "name": "Miscellaneous edible preparations", "value": 11044 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 248
+      },
+      { "name": "Sugars and sugar confectionery", "value": 14759 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 393 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 14456 }
+    ]
+  },
+  {
+    "Importer": "French Polynesia",
+    "ImporterISO": "PYF",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5124
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 16263 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 12559
+      },
+      { "name": "Cereals", "value": 10807 },
+      { "name": "Cocoa and cocoa preparations", "value": 1280 },
+      { "name": "Coffee, tea, mate and spices", "value": 396 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 16432
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 5524
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 12737
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 1801
+      },
+      { "name": "Meat and edible meat offal", "value": 29535 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4246 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 23356
+      },
+      { "name": "Miscellaneous edible preparations", "value": 11308 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 1043
+      },
+      { "name": "Sugars and sugar confectionery", "value": 14940 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 288 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 12557 }
+    ]
+  },
+  {
+    "Importer": "French Polynesia",
+    "ImporterISO": "PYF",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 6687
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 15319 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 15409
+      },
+      { "name": "Cereals", "value": 9225 },
+      { "name": "Cocoa and cocoa preparations", "value": 1389 },
+      { "name": "Coffee, tea, mate and spices", "value": 698 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 19438
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 6547
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 13805
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 958
+      },
+      { "name": "Meat and edible meat offal", "value": 33740 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 5504 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 23206
+      },
+      { "name": "Miscellaneous edible preparations", "value": 7871 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 1159
+      },
+      { "name": "Sugars and sugar confectionery", "value": 14957 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 469 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 13631 }
+    ]
+  },
+  {
+    "Importer": "Kiribati",
+    "ImporterISO": "KIR",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 640
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 2755 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2331
+      },
+      { "name": "Cereals", "value": 17905 },
+      { "name": "Cocoa and cocoa preparations", "value": 9 },
+      { "name": "Coffee, tea, mate and spices", "value": 95 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 987
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 144
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 680
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 90
+      },
+      { "name": "Meat and edible meat offal", "value": 1898 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 2021 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 7027
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1109 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 311
+      },
+      { "name": "Sugars and sugar confectionery", "value": 8950 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 158 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 849 }
+    ]
+  },
+  {
+    "Importer": "Kiribati",
+    "ImporterISO": "KIR",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1075
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 3446 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2649
+      },
+      { "name": "Cereals", "value": 19271 },
+      { "name": "Cocoa and cocoa preparations", "value": 11 },
+      { "name": "Coffee, tea, mate and spices", "value": 84 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 1197
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 172
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 669
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 65
+      },
+      { "name": "Meat and edible meat offal", "value": 2049 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 1753 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 7663
+      },
+      { "name": "Miscellaneous edible preparations", "value": 789 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 179
+      },
+      { "name": "Sugars and sugar confectionery", "value": 2431 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 170 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 585 }
+    ]
+  },
+  {
+    "Importer": "Kiribati",
+    "ImporterISO": "KIR",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 945
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4124 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 3006
+      },
+      { "name": "Cereals", "value": 16416 },
+      { "name": "Cocoa and cocoa preparations", "value": 35 },
+      { "name": "Coffee, tea, mate and spices", "value": 139 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 1250
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 114
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 616
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 221
+      },
+      { "name": "Meat and edible meat offal", "value": 2155 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 2109 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 7279
+      },
+      { "name": "Miscellaneous edible preparations", "value": 862 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 117
+      },
+      { "name": "Sugars and sugar confectionery", "value": 6599 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 176 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 767 }
+    ]
+  },
+  {
+    "Importer": "Kiribati",
+    "ImporterISO": "KIR",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 698
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 2254 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 3173
+      },
+      { "name": "Cereals", "value": 12948 },
+      { "name": "Cocoa and cocoa preparations", "value": 9 },
+      { "name": "Coffee, tea, mate and spices", "value": 63 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2074
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 119
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 621
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 49
+      },
+      { "name": "Meat and edible meat offal", "value": 2513 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 2622 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 6669
+      },
+      { "name": "Miscellaneous edible preparations", "value": 947 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 9
+      },
+      { "name": "Sugars and sugar confectionery", "value": 11898 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 132 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 728 }
+    ]
+  },
+  {
+    "Importer": "Kiribati",
+    "ImporterISO": "KIR",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 481
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 2325 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2830
+      },
+      { "name": "Cereals", "value": 5335 },
+      { "name": "Cocoa and cocoa preparations", "value": 8 },
+      { "name": "Coffee, tea, mate and spices", "value": 50 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2040
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 203
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 643
+      },
+      { "name": "Meat and edible meat offal", "value": 3335 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 1722 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 7822
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1054 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 5
+      },
+      { "name": "Sugars and sugar confectionery", "value": 5839 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 143 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 565 }
+    ]
+  },
+  {
+    "Importer": "Marshall Islands",
+    "ImporterISO": "MHL",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 151
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 2549 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 1935
+      },
+      { "name": "Cereals", "value": 1357 },
+      { "name": "Cocoa and cocoa preparations", "value": 6 },
+      { "name": "Coffee, tea, mate and spices", "value": 2 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 318
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 20
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 32 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 506
+      },
+      { "name": "Meat and edible meat offal", "value": 1962 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 1084 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 10106
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2095 },
+      { "name": "Sugars and sugar confectionery", "value": 686 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 51 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 67 }
+    ]
+  },
+  {
+    "Importer": "Marshall Islands",
+    "ImporterISO": "MHL",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 209
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 2853 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 1843
+      },
+      { "name": "Cereals", "value": 1688 },
+      { "name": "Cocoa and cocoa preparations", "value": 8 },
+      { "name": "Coffee, tea, mate and spices", "value": 3 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 530
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 44
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 48 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 1138
+      },
+      { "name": "Meat and edible meat offal", "value": 2319 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 744 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1790
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2145 },
+      { "name": "Sugars and sugar confectionery", "value": 599 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 31 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 61 }
+    ]
+  },
+  {
+    "Importer": "Marshall Islands",
+    "ImporterISO": "MHL",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 273
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 3599 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2391
+      },
+      { "name": "Cereals", "value": 445 },
+      { "name": "Cocoa and cocoa preparations", "value": 20 },
+      { "name": "Coffee, tea, mate and spices", "value": 19 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 403
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 35
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 61 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 1073
+      },
+      { "name": "Meat and edible meat offal", "value": 2410 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 812 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 6774
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2141 },
+      { "name": "Sugars and sugar confectionery", "value": 555 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 63 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 448 }
+    ]
+  },
+  {
+    "Importer": "Marshall Islands",
+    "ImporterISO": "MHL",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 243
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 3968 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2521
+      },
+      { "name": "Cereals", "value": 3518 },
+      { "name": "Cocoa and cocoa preparations", "value": 13 },
+      { "name": "Coffee, tea, mate and spices", "value": 8 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 447
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 23
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 77 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 1515
+      },
+      { "name": "Meat and edible meat offal", "value": 2617 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 857 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 11227
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2135 },
+      { "name": "Sugars and sugar confectionery", "value": 589 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 15 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 711 }
+    ]
+  },
+  {
+    "Importer": "Marshall Islands",
+    "ImporterISO": "MHL",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 254
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4424 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2252
+      },
+      { "name": "Cereals", "value": 2811 },
+      { "name": "Cocoa and cocoa preparations", "value": 13 },
+      { "name": "Coffee, tea, mate and spices", "value": 7 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 629
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 67
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 212
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 1369
+      },
+      { "name": "Meat and edible meat offal", "value": 2727 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 864 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1589
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2113 },
+      { "name": "Sugars and sugar confectionery", "value": 556 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 88 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 378 }
+    ]
+  },
+  {
+    "Importer": "Nauru",
+    "ImporterISO": "NRU",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 178
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 12350 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 860
+      },
+      { "name": "Cereals", "value": 548 },
+      { "name": "Cocoa and cocoa preparations", "value": 55 },
+      { "name": "Coffee, tea, mate and spices", "value": 150 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 1418
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1006
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1354
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 204
+      },
+      { "name": "Meat and edible meat offal", "value": 3259 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 611 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 1056
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1867 },
+      { "name": "Sugars and sugar confectionery", "value": 779 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 68 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 567 }
+    ]
+  },
+  {
+    "Importer": "Nauru",
+    "ImporterISO": "NRU",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 105
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 3381 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 477
+      },
+      { "name": "Cereals", "value": 217 },
+      { "name": "Cocoa and cocoa preparations", "value": 8 },
+      { "name": "Coffee, tea, mate and spices", "value": 26 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 758
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 326
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 542
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 48
+      },
+      { "name": "Meat and edible meat offal", "value": 1762 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 486 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 637
+      },
+      { "name": "Miscellaneous edible preparations", "value": 146 },
+      { "name": "Sugars and sugar confectionery", "value": 457 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 40 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 243 }
+    ]
+  },
+  {
+    "Importer": "Nauru",
+    "ImporterISO": "NRU",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 79
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5581 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 439
+      },
+      { "name": "Cereals", "value": 82 },
+      { "name": "Cocoa and cocoa preparations", "value": 7 },
+      { "name": "Coffee, tea, mate and spices", "value": 28 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 638
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 335
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 576
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 64
+      },
+      { "name": "Meat and edible meat offal", "value": 2421 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 503 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 574
+      },
+      { "name": "Miscellaneous edible preparations", "value": 334 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 33
+      },
+      { "name": "Sugars and sugar confectionery", "value": 714 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 51 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 258 }
+    ]
+  },
+  {
+    "Importer": "Nauru",
+    "ImporterISO": "NRU",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 145
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5638 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 530
+      },
+      { "name": "Cereals", "value": 86 },
+      { "name": "Cocoa and cocoa preparations", "value": 18 },
+      { "name": "Coffee, tea, mate and spices", "value": 10 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 712
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 466
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 719
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 55
+      },
+      { "name": "Meat and edible meat offal", "value": 2038 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 465 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 664
+      },
+      { "name": "Miscellaneous edible preparations", "value": 492 },
+      { "name": "Sugars and sugar confectionery", "value": 313 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 310 }
+    ]
+  },
+  {
+    "Importer": "Nauru",
+    "ImporterISO": "NRU",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 120
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5910 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 568
+      },
+      { "name": "Cereals", "value": 72 },
+      { "name": "Cocoa and cocoa preparations", "value": 58 },
+      { "name": "Coffee, tea, mate and spices", "value": 30 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 674
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 761
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 961
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 48
+      },
+      { "name": "Meat and edible meat offal", "value": 1871 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 413 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 559
+      },
+      { "name": "Miscellaneous edible preparations", "value": 367 },
+      { "name": "Sugars and sugar confectionery", "value": 779 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 58 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 437 }
+    ]
+  },
+  {
+    "Importer": "New Caledonia",
+    "ImporterISO": "NCL",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5845
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 23448 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 11176
+      },
+      { "name": "Cereals", "value": 107946 },
+      { "name": "Cocoa and cocoa preparations", "value": 1343 },
+      { "name": "Coffee, tea, mate and spices", "value": 1137 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 17945
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 8406
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 12189
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 873
+      },
+      { "name": "Meat and edible meat offal", "value": 13832 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6412 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 8006
+      },
+      { "name": "Miscellaneous edible preparations", "value": 14791 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 3016
+      },
+      { "name": "Sugars and sugar confectionery", "value": 11667 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 531 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 13642 }
+    ]
+  },
+  {
+    "Importer": "New Caledonia",
+    "ImporterISO": "NCL",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5831
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 22949 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 11331
+      },
+      { "name": "Cereals", "value": 62798 },
+      { "name": "Cocoa and cocoa preparations", "value": 1316 },
+      { "name": "Coffee, tea, mate and spices", "value": 977 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 18236
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 8289
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 11967
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 845
+      },
+      { "name": "Meat and edible meat offal", "value": 14133 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6799 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 6345
+      },
+      { "name": "Miscellaneous edible preparations", "value": 12866 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 973
+      },
+      { "name": "Sugars and sugar confectionery", "value": 11769 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 457 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 15055 }
+    ]
+  },
+  {
+    "Importer": "New Caledonia",
+    "ImporterISO": "NCL",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5816
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 21341 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 9485
+      },
+      { "name": "Cereals", "value": 63660 },
+      { "name": "Cocoa and cocoa preparations", "value": 1106 },
+      { "name": "Coffee, tea, mate and spices", "value": 431 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 16656
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 8789
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 11935
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 620
+      },
+      { "name": "Meat and edible meat offal", "value": 14598 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6691 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 5729
+      },
+      { "name": "Miscellaneous edible preparations", "value": 12089 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 210
+      },
+      { "name": "Sugars and sugar confectionery", "value": 12290 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 424 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 12725 }
+    ]
+  },
+  {
+    "Importer": "New Caledonia",
+    "ImporterISO": "NCL",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 5871
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 20615 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 10908
+      },
+      { "name": "Cereals", "value": 68538 },
+      { "name": "Cocoa and cocoa preparations", "value": 1354 },
+      { "name": "Coffee, tea, mate and spices", "value": 608 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 16427
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 8134
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 11180
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 406
+      },
+      { "name": "Meat and edible meat offal", "value": 14344 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 7017 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 6555
+      },
+      { "name": "Miscellaneous edible preparations", "value": 13123 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 45
+      },
+      { "name": "Sugars and sugar confectionery", "value": 11453 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 353 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 11524 }
+    ]
+  },
+  {
+    "Importer": "New Caledonia",
+    "ImporterISO": "NCL",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 8358
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 19117 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 12920
+      },
+      { "name": "Cereals", "value": 83726 },
+      { "name": "Cocoa and cocoa preparations", "value": 1291 },
+      { "name": "Coffee, tea, mate and spices", "value": 690 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 17624
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 8943
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 11815
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 851
+      },
+      { "name": "Meat and edible meat offal", "value": 17012 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6111 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 6459
+      },
+      { "name": "Miscellaneous edible preparations", "value": 9890 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 132
+      },
+      { "name": "Sugars and sugar confectionery", "value": 10700 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1555 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 11263 }
+    ]
+  },
+  {
+    "Importer": "New Zealand",
+    "ImporterISO": "NZL",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 748
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 1534 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 4918
+      },
+      { "name": "Cereals", "value": 12 },
+      { "name": "Cocoa and cocoa preparations", "value": 47 },
+      { "name": "Coffee, tea, mate and spices", "value": 3372 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 234
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 3124
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 22896
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 854
+      },
+      { "name": "Meat and edible meat offal", "value": 197 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 460 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 330
+      },
+      { "name": "Miscellaneous edible preparations", "value": 448 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 3392
+      },
+      { "name": "Sugars and sugar confectionery", "value": 12 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 412 }
+    ]
+  },
+  {
+    "Importer": "New Zealand",
+    "ImporterISO": "NZL",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 981
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 1832 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 3992
+      },
+      { "name": "Cereals", "value": 22 },
+      { "name": "Cocoa and cocoa preparations", "value": 101 },
+      { "name": "Coffee, tea, mate and spices", "value": 3126 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 218
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 2692
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 16123
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 233
+      },
+      { "name": "Meat and edible meat offal", "value": 35 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 560 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 575
+      },
+      { "name": "Miscellaneous edible preparations", "value": 285 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 700
+      },
+      { "name": "Sugars and sugar confectionery", "value": 62 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 72 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 345 }
+    ]
+  },
+  {
+    "Importer": "New Zealand",
+    "ImporterISO": "NZL",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1539
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 2156 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2738
+      },
+      { "name": "Cereals", "value": 30 },
+      { "name": "Cocoa and cocoa preparations", "value": 98 },
+      { "name": "Coffee, tea, mate and spices", "value": 3021 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 184
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 2568
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 11302
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 272
+      },
+      { "name": "Meat and edible meat offal", "value": 211 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 480 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 661
+      },
+      { "name": "Miscellaneous edible preparations", "value": 774 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 414
+      },
+      { "name": "Sugars and sugar confectionery", "value": 6 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 368 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 274 }
+    ]
+  },
+  {
+    "Importer": "New Zealand",
+    "ImporterISO": "NZL",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1859
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 720 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2288
+      },
+      { "name": "Cereals", "value": 68 },
+      { "name": "Cocoa and cocoa preparations", "value": 140 },
+      { "name": "Coffee, tea, mate and spices", "value": 2778 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 134
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 3065
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 9617
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 609
+      },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 642 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 686
+      },
+      { "name": "Miscellaneous edible preparations", "value": 817 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 68
+      },
+      { "name": "Sugars and sugar confectionery", "value": 48 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 262 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 9009 }
+    ]
+  },
+  {
+    "Importer": "New Zealand",
+    "ImporterISO": "NZL",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1836
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 2492 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2203
+      },
+      { "name": "Cereals", "value": 90 },
+      { "name": "Cocoa and cocoa preparations", "value": 159 },
+      { "name": "Coffee, tea, mate and spices", "value": 3450 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 162
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1711
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 5809
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 227
+      },
+      { "name": "Meat and edible meat offal", "value": 14 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 738 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 557
+      },
+      { "name": "Miscellaneous edible preparations", "value": 675 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 421
+      },
+      { "name": "Sugars and sugar confectionery", "value": 12 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 2 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 10561 }
+    ]
+  },
+  {
+    "Importer": "Niue",
+    "ImporterISO": "NIU",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 16
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 346 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 41
+      },
+      { "name": "Cereals", "value": 22 },
+      { "name": "Cocoa and cocoa preparations", "value": 8 },
+      { "name": "Coffee, tea, mate and spices", "value": 4 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 106
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 37
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 62 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 8
+      },
+      { "name": "Meat and edible meat offal", "value": 146 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 82 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 48
+      },
+      { "name": "Miscellaneous edible preparations", "value": 87 },
+      { "name": "Sugars and sugar confectionery", "value": 20 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 146 }
+    ]
+  },
+  {
+    "Importer": "Niue",
+    "ImporterISO": "NIU",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 22
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 335 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 30
+      },
+      { "name": "Cereals", "value": 14 },
+      { "name": "Cocoa and cocoa preparations", "value": 2 },
+      { "name": "Coffee, tea, mate and spices", "value": 4 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 88
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 24
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 38 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2
+      },
+      { "name": "Meat and edible meat offal", "value": 166 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 104 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 56
+      },
+      { "name": "Miscellaneous edible preparations", "value": 78 },
+      { "name": "Sugars and sugar confectionery", "value": 22 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 120 }
+    ]
+  },
+  {
+    "Importer": "Niue",
+    "ImporterISO": "NIU",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 26
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 383 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 100
+      },
+      { "name": "Cereals", "value": 18 },
+      { "name": "Cocoa and cocoa preparations", "value": 4 },
+      { "name": "Coffee, tea, mate and spices", "value": 8 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 82
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 44
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 38 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 4
+      },
+      { "name": "Meat and edible meat offal", "value": 146 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 102 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 64
+      },
+      { "name": "Miscellaneous edible preparations", "value": 88 },
+      { "name": "Sugars and sugar confectionery", "value": 22 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 132 }
+    ]
+  },
+  {
+    "Importer": "Niue",
+    "ImporterISO": "NIU",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 34
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 768 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 38
+      },
+      { "name": "Cereals", "value": 18 },
+      { "name": "Cocoa and cocoa preparations", "value": 6 },
+      { "name": "Coffee, tea, mate and spices", "value": 6 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 124
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 50
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 50 },
+      { "name": "Meat and edible meat offal", "value": 158 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 142 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 54
+      },
+      { "name": "Miscellaneous edible preparations", "value": 50 },
+      { "name": "Sugars and sugar confectionery", "value": 24 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 121 }
+    ]
+  },
+  {
+    "Importer": "Niue",
+    "ImporterISO": "NIU",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 34
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 428 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 70
+      },
+      { "name": "Cereals", "value": 35 },
+      { "name": "Cocoa and cocoa preparations", "value": 6 },
+      { "name": "Coffee, tea, mate and spices", "value": 10 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 146
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 42
+      },
+      { "name": "Edible vegetables and certain roots and tubers", "value": 44 },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2
+      },
+      { "name": "Meat and edible meat offal", "value": 180 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 104 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 44
+      },
+      { "name": "Miscellaneous edible preparations", "value": 90 },
+      { "name": "Sugars and sugar confectionery", "value": 36 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 2 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 174 }
+    ]
+  },
+  {
+    "Importer": "Palau",
+    "ImporterISO": "PLW",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 274
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4974 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 814
+      },
+      { "name": "Cereals", "value": 2076 },
+      { "name": "Cocoa and cocoa preparations", "value": 230 },
+      { "name": "Coffee, tea, mate and spices", "value": 431 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 946
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 365
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1189
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 179
+      },
+      { "name": "Meat and edible meat offal", "value": 1202 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 492 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 493
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1394 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 17
+      },
+      { "name": "Sugars and sugar confectionery", "value": 472 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 41 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 891 }
+    ]
+  },
+  {
+    "Importer": "Palau",
+    "ImporterISO": "PLW",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 340
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5043 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 1042
+      },
+      { "name": "Cereals", "value": 2211 },
+      { "name": "Cocoa and cocoa preparations", "value": 315 },
+      { "name": "Coffee, tea, mate and spices", "value": 423 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 730
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 509
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1109
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 180
+      },
+      { "name": "Meat and edible meat offal", "value": 1226 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 723 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 694
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1826 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 15
+      },
+      { "name": "Sugars and sugar confectionery", "value": 316 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 34 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 863 }
+    ]
+  },
+  {
+    "Importer": "Palau",
+    "ImporterISO": "PLW",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 348
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 6867 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 1701
+      },
+      { "name": "Cereals", "value": 1775 },
+      { "name": "Cocoa and cocoa preparations", "value": 149 },
+      { "name": "Coffee, tea, mate and spices", "value": 740 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 1215
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 623
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1437
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 259
+      },
+      { "name": "Meat and edible meat offal", "value": 1437 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 658 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 563
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1776 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 26
+      },
+      { "name": "Sugars and sugar confectionery", "value": 478 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 38 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1218 }
+    ]
+  },
+  {
+    "Importer": "Palau",
+    "ImporterISO": "PLW",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 334
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4643 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 1625
+      },
+      { "name": "Cereals", "value": 1761 },
+      { "name": "Cocoa and cocoa preparations", "value": 164 },
+      { "name": "Coffee, tea, mate and spices", "value": 525 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 986
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 607
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1385
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 327
+      },
+      { "name": "Meat and edible meat offal", "value": 1544 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 450 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 442
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1587 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 30
+      },
+      { "name": "Sugars and sugar confectionery", "value": 518 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 32 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1152 }
+    ]
+  },
+  {
+    "Importer": "Palau",
+    "ImporterISO": "PLW",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 282
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4318 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 1436
+      },
+      { "name": "Cereals", "value": 1720 },
+      { "name": "Cocoa and cocoa preparations", "value": 138 },
+      { "name": "Coffee, tea, mate and spices", "value": 421 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 935
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 593
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1462
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 329
+      },
+      { "name": "Meat and edible meat offal", "value": 1627 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 523 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 449
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1418 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 29
+      },
+      { "name": "Sugars and sugar confectionery", "value": 431 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 42 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1040 }
+    ]
+  },
+  {
+    "Importer": "Papua New Guinea",
+    "ImporterISO": "PNG",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 44189
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 95370 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 32992
+      },
+      { "name": "Cereals", "value": 525799 },
+      { "name": "Cocoa and cocoa preparations", "value": 1085 },
+      { "name": "Coffee, tea, mate and spices", "value": 237 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 29269
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 9111
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 12251
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 3987
+      },
+      { "name": "Meat and edible meat offal", "value": 101104 },
+      {
+        "name": "Meat, fish and seafood food preparations nes",
+        "value": 29202
+      },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 55322
+      },
+      { "name": "Miscellaneous edible preparations", "value": 29520 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 10536
+      },
+      { "name": "Sugars and sugar confectionery", "value": 24869 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1332 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 14214 }
+    ]
+  },
+  {
+    "Importer": "Papua New Guinea",
+    "ImporterISO": "PNG",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 49515
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 112936 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 27054
+      },
+      { "name": "Cereals", "value": 695479 },
+      { "name": "Cocoa and cocoa preparations", "value": 1115 },
+      { "name": "Coffee, tea, mate and spices", "value": 583 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 27803
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 10460
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 9171
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 4804
+      },
+      { "name": "Meat and edible meat offal", "value": 102944 },
+      {
+        "name": "Meat, fish and seafood food preparations nes",
+        "value": 25952
+      },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 42459
+      },
+      { "name": "Miscellaneous edible preparations", "value": 33440 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 12211
+      },
+      { "name": "Sugars and sugar confectionery", "value": 25124 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1471 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 14907 }
+    ]
+  },
+  {
+    "Importer": "Papua New Guinea",
+    "ImporterISO": "PNG",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 39911
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 152644 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 23675
+      },
+      { "name": "Cereals", "value": 747195 },
+      { "name": "Cocoa and cocoa preparations", "value": 979 },
+      { "name": "Coffee, tea, mate and spices", "value": 345 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 26311
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 9336
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 10127
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 4264
+      },
+      { "name": "Meat and edible meat offal", "value": 110159 },
+      {
+        "name": "Meat, fish and seafood food preparations nes",
+        "value": 23284
+      },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 32770
+      },
+      { "name": "Miscellaneous edible preparations", "value": 32422 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 10922
+      },
+      { "name": "Sugars and sugar confectionery", "value": 32587 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1170 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 15278 }
+    ]
+  },
+  {
+    "Importer": "Papua New Guinea",
+    "ImporterISO": "PNG",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 39318
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 111051 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 26512
+      },
+      { "name": "Cereals", "value": 717369 },
+      { "name": "Cocoa and cocoa preparations", "value": 1322 },
+      { "name": "Coffee, tea, mate and spices", "value": 428 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 23312
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 9329
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 12268
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 4569
+      },
+      { "name": "Meat and edible meat offal", "value": 107749 },
+      {
+        "name": "Meat, fish and seafood food preparations nes",
+        "value": 28816
+      },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 45579
+      },
+      { "name": "Miscellaneous edible preparations", "value": 28857 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 9285
+      },
+      { "name": "Sugars and sugar confectionery", "value": 36716 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1400 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 13862 }
+    ]
+  },
+  {
+    "Importer": "Papua New Guinea",
+    "ImporterISO": "PNG",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 50711
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 17256 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 26553
+      },
+      { "name": "Cereals", "value": 668413 },
+      { "name": "Cocoa and cocoa preparations", "value": 1230 },
+      { "name": "Coffee, tea, mate and spices", "value": 501 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 32919
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 11638
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 13959
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2605
+      },
+      { "name": "Meat and edible meat offal", "value": 72638 },
+      {
+        "name": "Meat, fish and seafood food preparations nes",
+        "value": 22480
+      },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 47698
+      },
+      { "name": "Miscellaneous edible preparations", "value": 28444 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 20937
+      },
+      { "name": "Sugars and sugar confectionery", "value": 54280 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1503 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 13444 }
+    ]
+  },
+  {
+    "Importer": "Samoa",
+    "ImporterISO": "WSM",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 3945
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4568 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 7112
+      },
+      { "name": "Cereals", "value": 1247 },
+      { "name": "Cocoa and cocoa preparations", "value": 174 },
+      { "name": "Coffee, tea, mate and spices", "value": 382 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 10244
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 750
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 6098
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 303
+      },
+      { "name": "Meat and edible meat offal", "value": 21852 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4954 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 19598
+      },
+      { "name": "Miscellaneous edible preparations", "value": 4392 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 115
+      },
+      { "name": "Sugars and sugar confectionery", "value": 9153 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 95 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2073 }
+    ]
+  },
+  {
+    "Importer": "Samoa",
+    "ImporterISO": "WSM",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 3979
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4621 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 7466
+      },
+      { "name": "Cereals", "value": 691 },
+      { "name": "Cocoa and cocoa preparations", "value": 168 },
+      { "name": "Coffee, tea, mate and spices", "value": 392 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 10460
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 974
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 6627
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2176
+      },
+      { "name": "Meat and edible meat offal", "value": 21556 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 3183 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 17060
+      },
+      { "name": "Miscellaneous edible preparations", "value": 3381 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 116
+      },
+      { "name": "Sugars and sugar confectionery", "value": 2502 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 101 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2104 }
+    ]
+  },
+  {
+    "Importer": "Samoa",
+    "ImporterISO": "WSM",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 4759
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 6013 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 7515
+      },
+      { "name": "Cereals", "value": 262 },
+      { "name": "Cocoa and cocoa preparations", "value": 226 },
+      { "name": "Coffee, tea, mate and spices", "value": 449 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 12701
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1108
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 7113
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 2875
+      },
+      { "name": "Meat and edible meat offal", "value": 30509 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4446 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 18085
+      },
+      { "name": "Miscellaneous edible preparations", "value": 3790 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 93
+      },
+      { "name": "Sugars and sugar confectionery", "value": 8444 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 77 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2557 }
+    ]
+  },
+  {
+    "Importer": "Samoa",
+    "ImporterISO": "WSM",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 6039
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5101 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 7776
+      },
+      { "name": "Cereals", "value": 2375 },
+      { "name": "Cocoa and cocoa preparations", "value": 243 },
+      { "name": "Coffee, tea, mate and spices", "value": 458 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 12109
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1280
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 6873
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 768
+      },
+      { "name": "Meat and edible meat offal", "value": 28988 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 5347 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 21015
+      },
+      { "name": "Miscellaneous edible preparations", "value": 4334 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 85
+      },
+      { "name": "Sugars and sugar confectionery", "value": 7262 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 86 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2208 }
+    ]
+  },
+  {
+    "Importer": "Samoa",
+    "ImporterISO": "WSM",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 6192
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4139 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 8556
+      },
+      { "name": "Cereals", "value": 2583 },
+      { "name": "Cocoa and cocoa preparations", "value": 313 },
+      { "name": "Coffee, tea, mate and spices", "value": 561 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 15435
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1449
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 6881
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 512
+      },
+      { "name": "Meat and edible meat offal", "value": 25067 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 6542 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 19298
+      },
+      { "name": "Miscellaneous edible preparations", "value": 4340 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 128
+      },
+      { "name": "Sugars and sugar confectionery", "value": 9387 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 159 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 3361 }
+    ]
+  },
+  {
+    "Importer": "Solomon Islands",
+    "ImporterISO": "SLB",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 3469
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7558 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 9902
+      },
+      { "name": "Cereals", "value": 76703 },
+      { "name": "Cocoa and cocoa preparations", "value": 132 },
+      { "name": "Coffee, tea, mate and spices", "value": 121 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2250
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 660
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2155
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 285
+      },
+      { "name": "Meat and edible meat offal", "value": 7024 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 3607 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 5132
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2023 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 110
+      },
+      { "name": "Sugars and sugar confectionery", "value": 13317 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 10 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1504 }
+    ]
+  },
+  {
+    "Importer": "Solomon Islands",
+    "ImporterISO": "SLB",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 4359
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 14204 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 9619
+      },
+      { "name": "Cereals", "value": 78109 },
+      { "name": "Cocoa and cocoa preparations", "value": 139 },
+      { "name": "Coffee, tea, mate and spices", "value": 297 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 1876
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 557
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2269
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 157
+      },
+      { "name": "Meat and edible meat offal", "value": 6729 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 3766 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 7220
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2531 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 935
+      },
+      { "name": "Sugars and sugar confectionery", "value": 13027 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 407 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1475 }
+    ]
+  },
+  {
+    "Importer": "Solomon Islands",
+    "ImporterISO": "SLB",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 4918
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 13726 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 12112
+      },
+      { "name": "Cereals", "value": 82469 },
+      { "name": "Cocoa and cocoa preparations", "value": 185 },
+      { "name": "Coffee, tea, mate and spices", "value": 734 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2480
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 675
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2402
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 119
+      },
+      { "name": "Meat and edible meat offal", "value": 8506 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4633 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 5318
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2049 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 882
+      },
+      { "name": "Sugars and sugar confectionery", "value": 12503 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 644 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1312 }
+    ]
+  },
+  {
+    "Importer": "Solomon Islands",
+    "ImporterISO": "SLB",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 7192
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 18591 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 11673
+      },
+      { "name": "Cereals", "value": 78637 },
+      { "name": "Cocoa and cocoa preparations", "value": 126 },
+      { "name": "Coffee, tea, mate and spices", "value": 848 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 2684
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 561
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2486
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 237
+      },
+      { "name": "Meat and edible meat offal", "value": 9433 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4938 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 7415
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2137 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 1022
+      },
+      { "name": "Sugars and sugar confectionery", "value": 13331 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 668 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1524 }
+    ]
+  },
+  {
+    "Importer": "Solomon Islands",
+    "ImporterISO": "SLB",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 6953
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7681 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 12214
+      },
+      { "name": "Cereals", "value": 88348 },
+      { "name": "Cocoa and cocoa preparations", "value": 183 },
+      { "name": "Coffee, tea, mate and spices", "value": 1105 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 3509
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 671
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2896
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 248
+      },
+      { "name": "Meat and edible meat offal", "value": 16258 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 5858 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 6089
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1755 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 1598
+      },
+      { "name": "Sugars and sugar confectionery", "value": 15905 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 667 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2098 }
+    ]
+  },
+  {
+    "Importer": "Tonga",
+    "ImporterISO": "TON",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1210
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7686 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 6078
+      },
+      { "name": "Cereals", "value": 877 },
+      { "name": "Cocoa and cocoa preparations", "value": 59 },
+      { "name": "Coffee, tea, mate and spices", "value": 117 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 4610
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 723
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 1690
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 244
+      },
+      { "name": "Meat and edible meat offal", "value": 12594 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 2309 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 10770
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1811 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 9
+      },
+      { "name": "Sugars and sugar confectionery", "value": 3620 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 132 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1059 }
+    ]
+  },
+  {
+    "Importer": "Tonga",
+    "ImporterISO": "TON",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 968
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5102 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 4782
+      },
+      { "name": "Cereals", "value": 369 },
+      { "name": "Cocoa and cocoa preparations", "value": 66 },
+      { "name": "Coffee, tea, mate and spices", "value": 86 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 4194
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 940
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2104
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 120
+      },
+      { "name": "Meat and edible meat offal", "value": 14099 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 2529 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 12135
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2141 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 2
+      },
+      { "name": "Sugars and sugar confectionery", "value": 2368 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 61 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1467 }
+    ]
+  },
+  {
+    "Importer": "Tonga",
+    "ImporterISO": "TON",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1208
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7985 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 4773
+      },
+      { "name": "Cereals", "value": 52 },
+      { "name": "Cocoa and cocoa preparations", "value": 61 },
+      { "name": "Coffee, tea, mate and spices", "value": 107 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 5579
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1449
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2087
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 210
+      },
+      { "name": "Meat and edible meat offal", "value": 13633 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 2300 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 10501
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2249 },
+      { "name": "Sugars and sugar confectionery", "value": 1667 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 58 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1363 }
+    ]
+  },
+  {
+    "Importer": "Tonga",
+    "ImporterISO": "TON",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 870
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4427 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 2129
+      },
+      { "name": "Cereals", "value": 186 },
+      { "name": "Cocoa and cocoa preparations", "value": 43 },
+      { "name": "Coffee, tea, mate and spices", "value": 20 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 4749
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1589
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2378
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 208
+      },
+      { "name": "Meat and edible meat offal", "value": 13826 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 3131 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 472
+      },
+      { "name": "Miscellaneous edible preparations", "value": 1764 },
+      { "name": "Sugars and sugar confectionery", "value": 2086 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 25 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1364 }
+    ]
+  },
+  {
+    "Importer": "Tonga",
+    "ImporterISO": "TON",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1394
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 7521 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 5002
+      },
+      { "name": "Cereals", "value": 137 },
+      { "name": "Cocoa and cocoa preparations", "value": 87 },
+      { "name": "Coffee, tea, mate and spices", "value": 102 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 6970
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 1852
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2182
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 216
+      },
+      { "name": "Meat and edible meat offal", "value": 16777 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 2476 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 10935
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2570 },
+      { "name": "Sugars and sugar confectionery", "value": 2586 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 35 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 1567 }
+    ]
+  },
+  {
+    "Importer": "Tuvalu",
+    "ImporterISO": "TUV",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 65
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 445 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 655
+      },
+      { "name": "Cereals", "value": 697 },
+      { "name": "Cocoa and cocoa preparations", "value": 22 },
+      { "name": "Coffee, tea, mate and spices", "value": 18 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 103
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 72
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 289
+      },
+      { "name": "Meat and edible meat offal", "value": 480 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 170 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 828
+      },
+      { "name": "Miscellaneous edible preparations", "value": 143 },
+      { "name": "Sugars and sugar confectionery", "value": 639 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 8 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 82 }
+    ]
+  },
+  {
+    "Importer": "Tuvalu",
+    "ImporterISO": "TUV",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 103
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 608 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 561
+      },
+      { "name": "Cereals", "value": 593 },
+      { "name": "Cocoa and cocoa preparations", "value": 13 },
+      { "name": "Coffee, tea, mate and spices", "value": 37 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 86
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 78
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 254
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 7
+      },
+      { "name": "Meat and edible meat offal", "value": 515 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 418 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 927
+      },
+      { "name": "Miscellaneous edible preparations", "value": 158 },
+      { "name": "Sugars and sugar confectionery", "value": 653 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 10 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 70 }
+    ]
+  },
+  {
+    "Importer": "Tuvalu",
+    "ImporterISO": "TUV",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 84
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 859 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 442
+      },
+      { "name": "Cereals", "value": 486 },
+      { "name": "Cocoa and cocoa preparations", "value": 28 },
+      { "name": "Coffee, tea, mate and spices", "value": 25 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 129
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 70
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 392
+      },
+      { "name": "Meat and edible meat offal", "value": 582 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 179 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 570
+      },
+      { "name": "Miscellaneous edible preparations", "value": 178 },
+      { "name": "Sugars and sugar confectionery", "value": 621 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 14 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 122 }
+    ]
+  },
+  {
+    "Importer": "Tuvalu",
+    "ImporterISO": "TUV",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 92
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 621 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 561
+      },
+      { "name": "Cereals", "value": 489 },
+      { "name": "Cocoa and cocoa preparations", "value": 26 },
+      { "name": "Coffee, tea, mate and spices", "value": 22 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 139
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 119
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 266
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 8
+      },
+      { "name": "Meat and edible meat offal", "value": 723 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 303 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 602
+      },
+      { "name": "Miscellaneous edible preparations", "value": 840 },
+      { "name": "Sugars and sugar confectionery", "value": 602 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 2 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 126 }
+    ]
+  },
+  {
+    "Importer": "Tuvalu",
+    "ImporterISO": "TUV",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 61
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 628 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 558
+      },
+      { "name": "Cereals", "value": 310 },
+      { "name": "Cocoa and cocoa preparations", "value": 16 },
+      { "name": "Coffee, tea, mate and spices", "value": 38 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 133
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 157
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 233
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 74
+      },
+      { "name": "Meat and edible meat offal", "value": 830 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 249 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 570
+      },
+      { "name": "Miscellaneous edible preparations", "value": 517 },
+      { "name": "Sugars and sugar confectionery", "value": 434 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 12 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 154 }
+    ]
+  },
+  {
+    "Importer": "Vanuatu",
+    "ImporterISO": "VUT",
+    "Year": 2014,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1678
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 6468 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 8163
+      },
+      { "name": "Cereals", "value": 11160 },
+      { "name": "Cocoa and cocoa preparations", "value": 94 },
+      { "name": "Coffee, tea, mate and spices", "value": 58 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 3350
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 482
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2472
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 142
+      },
+      { "name": "Meat and edible meat offal", "value": 3834 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4141 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 14793
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2040 },
+      { "name": "Sugars and sugar confectionery", "value": 4078 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 135 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2452 }
+    ]
+  },
+  {
+    "Importer": "Vanuatu",
+    "ImporterISO": "VUT",
+    "Year": 2015,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1632
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5452 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 8014
+      },
+      { "name": "Cereals", "value": 11331 },
+      { "name": "Cocoa and cocoa preparations", "value": 148 },
+      { "name": "Coffee, tea, mate and spices", "value": 93 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 3970
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 790
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2575
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 142
+      },
+      { "name": "Meat and edible meat offal", "value": 4812 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 3676 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 15075
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2528 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 4
+      },
+      { "name": "Sugars and sugar confectionery", "value": 3151 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 120 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 3071 }
+    ]
+  },
+  {
+    "Importer": "Vanuatu",
+    "ImporterISO": "VUT",
+    "Year": 2016,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 1784
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 4701 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 7532
+      },
+      { "name": "Cereals", "value": 11171 },
+      { "name": "Cocoa and cocoa preparations", "value": 108 },
+      { "name": "Coffee, tea, mate and spices", "value": 75 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 4068
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 672
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2867
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 141
+      },
+      { "name": "Meat and edible meat offal", "value": 5999 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 3613 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 15075
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2066 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 3
+      },
+      { "name": "Sugars and sugar confectionery", "value": 4327 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 174 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2812 }
+    ]
+  },
+  {
+    "Importer": "Vanuatu",
+    "ImporterISO": "VUT",
+    "Year": 2017,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 2234
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5297 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 9874
+      },
+      { "name": "Cereals", "value": 24888 },
+      { "name": "Cocoa and cocoa preparations", "value": 143 },
+      { "name": "Coffee, tea, mate and spices", "value": 29 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 4185
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 705
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 2644
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 87
+      },
+      { "name": "Meat and edible meat offal", "value": 7056 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 3841 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 18898
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2013 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 14
+      },
+      { "name": "Sugars and sugar confectionery", "value": 3807 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 1 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2794 }
+    ]
+  },
+  {
+    "Importer": "Vanuatu",
+    "ImporterISO": "VUT",
+    "Year": 2018,
+    "Data": [
+      {
+        "name": "Animal,vegetable fats and oils, cleavage products, et",
+        "value": 2558
+      },
+      { "name": "Beverages, spirits and vinegar", "value": 5404 },
+      {
+        "name": "Cereal, flour, starch, milk preparations and products",
+        "value": 8635
+      },
+      { "name": "Cereals", "value": 3445 },
+      { "name": "Cocoa and cocoa preparations", "value": 186 },
+      { "name": "Coffee, tea, mate and spices", "value": 55 },
+      {
+        "name": "Dairy products, eggs, honey, edible animal product nes",
+        "value": 4271
+      },
+      {
+        "name": "Edible fruit, nuts, peel of citrus fruit, melons",
+        "value": 761
+      },
+      {
+        "name": "Edible vegetables and certain roots and tubers",
+        "value": 3794
+      },
+      {
+        "name": "Fish, crustaceans, molluscs, aquatic invertebrates ne",
+        "value": 76
+      },
+      { "name": "Meat and edible meat offal", "value": 11040 },
+      { "name": "Meat, fish and seafood food preparations nes", "value": 4961 },
+      {
+        "name": "Milling products, malt, starches, inulin, wheat glute",
+        "value": 14988
+      },
+      { "name": "Miscellaneous edible preparations", "value": 2191 },
+      {
+        "name": "Oil seed, oleagic fruits, grain, seed, fruit, etc, ne",
+        "value": 2
+      },
+      { "name": "Sugars and sugar confectionery", "value": 4384 },
+      { "name": "Tobacco and manufactured tobacco substitutes", "value": 284 },
+      { "name": "Vegetable, fruit, nut, etc food preparations", "value": 2643 }
+    ]
+  }
+]
